@@ -6,4 +6,3 @@ Team Members:
 - Suraj Giri
 - Muslimbek Abduvaliev
 - Nijat Sadikhov
-- Akmalkhon Khashimov
